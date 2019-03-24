@@ -1,0 +1,2 @@
+# QtSynopsis
+Qt Synopsis
